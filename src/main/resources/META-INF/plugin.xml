@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <idea-plugin>
-    <id>com.yash.findactivity</id>
-    <name>Find Activity</name>
+    <id>com.yash.currentfragment</id>
+    <name>Current Fragment</name>
     <version>1.0.0</version>
     <vendor email="yashdadhich.6081@gmail.com">Yash Dadhich</vendor>
 
@@ -16,9 +16,9 @@
     <depends>org.jetbrains.android</depends>
 
     <actions>
-        <action id="FindActivity"
-                class="com.yash.findactivity.FindActivityAction"
-                text="Find Activity"
+        <action id="CurrentFragment"
+                class="com.yash.currentfragment.CurrentFragmentAction"
+                text="Current Fragment"
                 description="Find current Activity and Fragments">
             <add-to-group group-id="CodeMenu" anchor="last"/>
             <keyboard-shortcut keymap="$default" first-keystroke="alt 0"/>

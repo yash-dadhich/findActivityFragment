@@ -1,22 +1,23 @@
 <application>
   <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="12.0" />
     <option name="presentationModeIdeScale" value="1.75" />
   </component>
-  <component name="PropertyService"><![CDATA[{
-  "keyToString": {
-    "FileTemplates.SelectedTemplate": "HTML File",
-    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
-    "fileTypeChangedCounter": "1",
-    "migrate.android.sdk.path.to.roamable.storage": "false",
-    "migrated.non.roamable.values.from.general.settings": "true"
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;FileTemplates.SelectedTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1&quot;: &quot;true&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
+    &quot;migrate.android.sdk.path.to.roamable.storage&quot;: &quot;false&quot;,
+    &quot;migrated.non.roamable.values.from.general.settings&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "fileTypeDetectors": [
-      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
-      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
-      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
-      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+  &quot;keyToStringList&quot;: {
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.jetbrains.cidr.lang.OCHeaderFileTypeDetector&quot;,
+      &quot;com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
     ]
   }
-}]]></component>
+}</component>
 </application>

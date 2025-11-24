@@ -8,7 +8,7 @@ plugins {
     id("org.jetbrains.intellij.platform") version "2.10.4"
 }
 
-group = "com.yash.findactivity"
+group = "com.yash.currentfragment"
 version = "1.0.0"
 
 repositories {

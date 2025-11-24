@@ -1,0 +1,28 @@
+# Gradle state
+.gradle/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Kotlin/Java artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Distribution bundles
+*.zip
+
