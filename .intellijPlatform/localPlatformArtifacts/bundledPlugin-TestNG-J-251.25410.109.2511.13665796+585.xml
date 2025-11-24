@@ -1,0 +1,12 @@
+<ivy-module version="2.0">
+  <info organisation="bundledPlugin" module="TestNG-J" revision="251.25410.109.2511.13665796+585"/>
+  <configurations>
+    <conf name="default" visibility="public"/>
+  </configurations>
+  <publications>
+    <artifact name="/Applications/Android Studio.app/Contents/plugins/testng" type="directory" conf="default"/>
+  </publications>
+  <dependencies>
+    <dependency org="bundledPlugin" name="org.intellij.intelliLang" rev="251.25410.109.2511.13665796+5"/>
+  </dependencies>
+</ivy-module>

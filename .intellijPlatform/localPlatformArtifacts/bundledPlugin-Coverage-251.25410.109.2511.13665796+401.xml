@@ -1,0 +1,15 @@
+<ivy-module version="2.0">
+  <info organisation="bundledPlugin" module="Coverage" revision="251.25410.109.2511.13665796+401"/>
+  <configurations>
+    <conf name="default" visibility="public"/>
+  </configurations>
+  <publications>
+    <artifact name="/Applications/Android Studio.app/Contents/plugins/java-coverage" type="directory" conf="default"/>
+  </publications>
+  <dependencies>
+    <dependency org="bundledPlugin" name="TestNG-J" rev="251.25410.109.2511.13665796+585"/>
+    <dependency org="bundledPlugin" name="JUnit" rev="251.25410.109.2511.13665796+850"/>
+    <dependency org="bundledPlugin" name="com.intellij.java" rev="251.25410.109.2511.13665796+482"/>
+    <dependency org="bundledModule" name="intellij.platform.coverage" rev="251.25410.109.2511.13665796+986"/>
+  </dependencies>
+</ivy-module>

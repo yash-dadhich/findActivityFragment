@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Created-By: Gradle 8.14
+Version: 1.0.0
+Build-JVM: 17.0.13 (OpenLogic 17.0.13+11-adhoc.admin.jdk17u)
+Build-OS: Mac OS X 14.7.1 x86_64
+Build-Plugin: IntelliJ Platform Gradle Plugin
+Build-Plugin-Version: 2.10.4
+Platform-Type: AI
+Platform-Version: AI-251.25410.109.2511.13665796
+Platform-Build: 251.25410.109.2511.13665796
+Kotlin-Available: true
+Kotlin-Stdlib-Bundled: true
+Kotlin-Version: 2.1.0
+

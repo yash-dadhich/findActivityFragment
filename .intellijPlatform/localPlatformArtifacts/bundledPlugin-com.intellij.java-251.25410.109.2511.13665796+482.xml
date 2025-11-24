@@ -1,0 +1,17 @@
+<ivy-module version="2.0">
+  <info organisation="bundledPlugin" module="com.intellij.java" revision="251.25410.109.2511.13665796+482"/>
+  <configurations>
+    <conf name="default" visibility="public"/>
+  </configurations>
+  <publications>
+    <artifact name="/Applications/Android Studio.app/Contents/plugins/java" type="directory" conf="default"/>
+  </publications>
+  <dependencies>
+    <dependency org="bundledPlugin" name="com.intellij.copyright" rev="251.25410.109.2511.13665796+699"/>
+    <dependency org="bundledPlugin" name="com.intellij.platform.images" rev="251.25410.109.2511.13665796+734"/>
+    <dependency org="bundledPlugin" name="com.jetbrains.performancePlugin" rev="251.25410.109.2511.13665796+724"/>
+    <dependency org="bundledPlugin" name="org.jetbrains.plugins.terminal" rev="251.25410.109.2511.13665796+832"/>
+    <dependency org="bundledModule" name="intellij.platform.debugger.impl.frontend" rev="251.25410.109.2511.13665796+986"/>
+    <dependency org="bundledModule" name="intellij.platform.kernel.backend" rev="251.25410.109.2511.13665796+986"/>
+  </dependencies>
+</ivy-module>

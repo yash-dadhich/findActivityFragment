@@ -1,0 +1,32 @@
+<ivy-module version="2.0">
+  <info organisation="bundledPlugin" module="org.jetbrains.android" revision="AI-251.25410.109.2511.13665796+379"/>
+  <configurations>
+    <conf name="default" visibility="public"/>
+  </configurations>
+  <publications>
+    <artifact name="/Applications/Android Studio.app/Contents/plugins/android" type="directory" conf="default"/>
+  </publications>
+  <dependencies>
+    <dependency org="bundledPlugin" name="JUnit" rev="251.25410.109.2511.13665796+850"/>
+    <dependency org="bundledPlugin" name="com.intellij.properties" rev="251.25410.109.2511.13665796+721"/>
+    <dependency org="bundledPlugin" name="intellij.webp" rev="251.25410.109.2511.13665796+960"/>
+    <dependency org="bundledPlugin" name="com.intellij.gradle" rev="251.25410.109.2511.13665796+453"/>
+    <dependency org="bundledPlugin" name="org.jetbrains.plugins.gradle" rev="251.25410.109.2511.13665796+772"/>
+    <dependency org="bundledPlugin" name="org.intellij.groovy" rev="251.25410.109.2511.13665796+310"/>
+    <dependency org="bundledPlugin" name="com.android.tools.idea.smali" rev="251.25410.109.2511.13665796+800"/>
+    <dependency org="bundledPlugin" name="org.jetbrains.kotlin" rev="251.25410.109.2511.13665796-AS+611"/>
+    <dependency org="bundledPlugin" name="org.toml.lang" rev="251.25410.109.2511.13665796+386"/>
+    <dependency org="bundledPlugin" name="org.intellij.intelliLang" rev="251.25410.109.2511.13665796+5"/>
+    <dependency org="bundledPlugin" name="com.android.tools.gradle.dcl" rev="251.25410.109.2511.13665796+96"/>
+    <dependency org="bundledPlugin" name="com.intellij.platform.images" rev="251.25410.109.2511.13665796+734"/>
+    <dependency org="bundledPlugin" name="com.intellij.java" rev="251.25410.109.2511.13665796+482"/>
+    <dependency org="bundledModule" name="intellij.json.split" rev="251.25410.109.2511.13665796+986"/>
+    <dependency org="bundledModule" name="intellij.platform.lvcs.impl" rev="251.25410.109.2511.13665796+986"/>
+    <dependency org="bundledModule" name="intellij.platform.vcs.impl" rev="251.25410.109.2511.13665796+986"/>
+    <dependency org="bundledModule" name="intellij.platform.vcs.dvcs.impl" rev="251.25410.109.2511.13665796+986"/>
+    <dependency org="bundledModule" name="intellij.platform.vcs.log.impl" rev="251.25410.109.2511.13665796+986"/>
+    <dependency org="bundledModule" name="intellij.libraries.grpc" rev="251.25410.109.2511.13665796+986"/>
+    <dependency org="bundledModule" name="intellij.libraries.grpc.netty.shaded" rev="251.25410.109.2511.13665796+986"/>
+    <dependency org="bundledModule" name="intellij.settingsSync.core" rev="251.25410.109.2511.13665796+986"/>
+  </dependencies>
+</ivy-module>
