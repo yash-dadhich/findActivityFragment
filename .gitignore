@@ -26,3 +26,5 @@ out/
 # Distribution bundles
 *.zip
 
+# Heap dumps / large diagnostics
+*.hprof
