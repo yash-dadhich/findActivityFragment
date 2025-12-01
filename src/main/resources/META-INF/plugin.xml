@@ -2,13 +2,16 @@
 <idea-plugin>
     <id>com.yash.currentfragment</id>
     <name>Current Fragment</name>
-    <version>1.0.0</version>
+    <version>1.0.3</version>
     <vendor email="yashdadhich.6081@gmail.com">Yash Dadhich</vendor>
 
     <description>
         <![CDATA[
-        Find the current Activity and Fragments of running Android app via ADB.
-        Supports Android 7-14.
+        <p><strong>Current Fragment</strong> lets you inspect the active Activity and any visible Fragments of a connected Android app via ADB (Android 7-14).</p>
+        <p><strong>Usage:</strong> Trigger the action with the <code>Alt+0</code> shortcut (or via the Code menu) to instantly dump the current Activity/Fragment stack.</p>
+        <p><strong>Note:</strong> This plugin is in its initial phase—expect rapid iterations and please share feedback.</p>
+        <p><strong>Connect:</strong> <a href="https://in.linkedin.com/in/yashdadhich">LinkedIn</a> · <a href="https://github.com/yash-dadhich">GitHub</a></p>
+        <p><strong>Contribute:</strong> <a href="https://github.com/yash-dadhich/findActivityFragment">Repository</a></p>
         ]]>
     </description>
 
